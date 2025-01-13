@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\obj\Debug\net9.0\CSharpTestLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\obj\Debug\net9.0\CSharpTestLab.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\obj\Debug\net9.0\CSharpTestLab.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\obj\Debug\net9.0\CSharpTestLab.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\obj\Debug\net9.0\CSharpTestLab.sourcelink.json
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\bin\Debug\net9.0\CSharpTestLab.exe
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\bin\Debug\net9.0\CSharpTestLab.deps.json
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\bin\Debug\net9.0\CSharpTestLab.runtimeconfig.json
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\bin\Debug\net9.0\CSharpTestLab.dll
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\bin\Debug\net9.0\CSharpTestLab.pdb
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\obj\Debug\net9.0\CSharpTestLab.dll
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\obj\Debug\net9.0\refint\CSharpTestLab.dll
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\obj\Debug\net9.0\CSharpTestLab.pdb
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\obj\Debug\net9.0\CSharpTestLab.genruntimeconfig.cache
+C:\Users\USER\Desktop\C#Test_Lab\CSharpTestLab\obj\Debug\net9.0\ref\CSharpTestLab.dll
